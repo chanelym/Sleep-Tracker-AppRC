@@ -6,8 +6,8 @@ const { MongoClient } = require('mongodb')
 let db;
 
 
-const url = "mongodb+srv://minayachanely_db_user:h9JKawWt9SxkgjIf@cluster0.sfxxwzz.mongodb.net/";
-const dbName = "sleepTracker";
+const url = "mongodb+srv://minayachanely_db_user:zUt3LLUD3Wo9rJmY@cluster0.ot2e9d2.mongodb.net/";
+const dbName = "SleepTrackingApp";
 
 app.set('view engine', 'ejs')
 app.use(bodyParser.urlencoded({ extended: true }))
