@@ -19,7 +19,7 @@ Frontend: EJS, HTML, CSS, JavaScript, Bootstrap
 Backend: Node.js, Express.js
 Database: MongoDB Atlas with Mongoose
 
-What I Learned
+**What I Learned**
 Structuring an Express.js application using the MVC architecture, separating database operations, application logic, and user interface components to create more organized and maintainable code.
 Implementing CRUD functionality to create, view, update, and delete sleep records using MongoDB and Mongoose.
 Working with EJS to render dynamic content and display saved sleep entries.
