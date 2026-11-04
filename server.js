@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const express = require('express')
 const app = express()
 const bodyParser = require('body-parser')
@@ -6,7 +8,7 @@ const { MongoClient } = require('mongodb')
 let db;
 
 
-const url = "mongodb+srv://minayachanely_db_user:zUt3LLUD3Wo9rJmY@cluster0.ot2e9d2.mongodb.net/";
+const url = process.env.MONGODB_URI;
 const dbName = "SleepTrackingApp";
 
 app.set('view engine', 'ejs')
