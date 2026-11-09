@@ -31,6 +31,4 @@ Building a user-friendly interface for recording and reviewing sleep history.
 2. run `npm install`
 
 ## Usage
-
-1. run `npm run savage`
-2. Navigate to `localhost:3000`
+1. Navigate to `localhost:3000`
