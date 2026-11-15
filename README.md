@@ -1,4 +1,4 @@
-## Sleep Tracker App 
+# Sleep Tracker App 
 
 Sleep Tracker is a web-based application that allows users to track and monitor their sleep habits. Users can log the date and times they fell asleep and woke up, rate their sleep quality as either good or bad, and view their previous sleep entries to keep track of their sleeping patterns over time. The application provides a simple way to record nightly sleep information and review past entries in one place.
 
